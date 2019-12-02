@@ -1,0 +1,4 @@
+use myretail
+db.productprice.insert({ "_id" : 13860428, "price" : 13.49, "currencyCode" : "USD" })
+db.productprice.insert({ "_id" : 50513417,"price" : 100.00, "currencyCode" : "USD" })
+db.productprice.insert({ "_id" : 49102103,"price" : 299.99, "currencyCode" : "USD" })
